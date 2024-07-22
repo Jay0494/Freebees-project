@@ -24,8 +24,7 @@ To ensure that the analysis was as efficient as possible:
 - **Performance Tuning:** I refined queries to handle large datasets smoothly and deliver results faster.
 
 ### **3. Analysis and Insights**
-
-The heart of the project was the analysis:
+The heart of the project is:
 -  Identifying customers at risk of churning.
 
   ## INSIGHTS 
