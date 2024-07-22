@@ -6,7 +6,7 @@
 
 
 
-``````## Data preparation
+```## Data preparation
 
 
 ## FORMAT DATE COLUMN 
@@ -101,4 +101,5 @@ WITH CustomersWithoutRecentPurchases AS (
     AND i.InvoiceDate >= DATE_SUB('2013-12-22',INTERVAL 6 MONTH)
     WHERE i.CustomerId IS NULL
 )
-SELECT * FROM CustomersWithoutRecentPurchases; ``````
+SELECT * FROM CustomersWithoutRecentPurchases;
+```
