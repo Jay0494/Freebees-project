@@ -1,4 +1,5 @@
-# Freebees-project
+# Freebees SQL project
+INTRODUCTION
 
 
 
@@ -6,7 +7,8 @@
 
 
 
-```## Data preparation
+```sql
+## Data preparation
 
 
 ## FORMAT DATE COLUMN 
