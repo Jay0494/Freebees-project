@@ -6,7 +6,7 @@ Hi there! I’m excited to share with you a project that was both a challenging 
 **Project Highlights:**
 - **Purpose:** I set out to understand why customers were churning and identify patterns that could help improve retention strategies as well as other tasks.
 - **Database:** The Chinook database served as a fantastic learning tool, providing a realistic dataset to work with.
-- **Skills Applied:** SQL for data exploration, cleaning, and optimization, combined with analytical thinking to derive meaningful insights.
+- **Tools:** SQL for data exploration, cleaning, and optimization, combined with analytical thinking to derive meaningful insights.
 
 ## **Project Overview**
 
