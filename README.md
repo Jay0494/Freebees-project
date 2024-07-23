@@ -20,8 +20,8 @@ The journey began with a thorough exploration of the Chinook database:
 ### **2. Data Optimization**
 
 To ensure that the analysis was as efficient as possible:
-- **Optimized Queries:** I crafted SQL queries to be both effective and efficient, paying close attention to execution plans.
-- **Performance Tuning:** I refined queries to handle large datasets smoothly and deliver results faster.
+- I crafted SQL queries to be both effective and efficient, paying close attention to execution plans.
+- I refined queries to handle large datasets smoothly and deliver results faster.
 
 ### **3. Analysis and Insights**
 The heart of the project is:
